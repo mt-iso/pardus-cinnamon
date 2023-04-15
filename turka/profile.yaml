@@ -1,15 +1,15 @@
-name: turka
+name: pardus
 hostname: turka
 distro: debian
 codename: yirmibir
 variant: minbase
-publisher: TurkaOS <https://turkaos.github.io/>
-label: TurkaOS_Linux
-application_id: TurkaOS
+publisher: Pardus-Turka <https://github.com/pardus-turka>
+label: Pardus_Linux
+application_id: Pardus-Turka
 airootfs_directory_pre: airootfs
 keyring_package: pardus-archive-keyring
 repository: https://depo.pardus.org.tr/pardus
-linux_args: locales=tr_TR.UTF-8,en_US.UTF-8 keyboard-layouts=tr username=muslim hostname=muslimos user-fullname=muslim noswap quiet
+linux_args: locales=tr_TR.UTF-8,en_US.UTF-8 keyboard-layouts=tr username=pardus hostname=turka user-fullname=pardus noswap quiet
 #iso_merge: iso_merge
 grub_cfg: grub.cfg
 packages:
