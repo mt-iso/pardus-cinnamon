@@ -1,6 +1,7 @@
-PRETTY_NAME="Turka OS"
-NAME="Turka OS"
+PRETTY_NAME="Pardus Turka"
+NAME="Pardus Turka"
 VERSION_ID="1.0"
-VERSION="1.0 (Life)"
-VERSION_CODENAME=turka
-ID=turka
+VERSION="23 (Turkiye)"
+VERSION_CODENAME=pardus
+ID=pardus
+ID_LIKE=debian
