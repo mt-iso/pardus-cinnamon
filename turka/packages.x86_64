@@ -17,6 +17,7 @@ gvfs-backends
 xdg-user-dirs
 gnome-calculator
 gnome-screenshot
+gnome-calendar
 gnome-weather
 gnome-clocks
 baobab
@@ -38,6 +39,7 @@ pardus-package-installer
 pardus-about
 pardus-dolunay-grub-theme
 pardus-lightdm-greeter
+pardus-installer
 system-monitoring-center
 qmplay2
 audacious
