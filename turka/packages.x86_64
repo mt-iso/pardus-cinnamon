@@ -41,4 +41,6 @@ pardus-lightdm-greeter
 system-monitoring-center
 qmplay2
 audacious
+appimagelauncher
+
 --install-recommends
