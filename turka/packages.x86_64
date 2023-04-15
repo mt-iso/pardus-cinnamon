@@ -29,6 +29,8 @@ network-manager-gnome
 network-manager
 inxi
 synaptic
+chromium
+chromium-l10n
 printer-driver-all
 system-config-printer
 simple-scan
