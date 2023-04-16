@@ -29,8 +29,6 @@ network-manager-gnome
 network-manager
 inxi
 synaptic
-chromium
-chromium-l10n
 printer-driver-all
 system-config-printer
 simple-scan
@@ -44,7 +42,6 @@ pardus-lightdm-greeter
 pardus-installer
 system-monitoring-center
 qmplay2
-audacious
 appimagelauncher
 
 --install-recommends
