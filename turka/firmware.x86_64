@@ -33,5 +33,3 @@ firmware-sof-signed
 firmware-ti-connectivity
 firmware-zd1211
 hdmi2usb-fx2-firmware
-
---install-recommends
