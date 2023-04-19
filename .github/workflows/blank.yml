@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: "0 0 * * 6"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -20,6 +20,6 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
           prerelease: false
-          title: "Auto build"
+          title: "Daily build"
           files: |
             /output/*
