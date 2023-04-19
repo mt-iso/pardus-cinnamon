@@ -9,7 +9,7 @@ rm /etc/apt/apt.conf.d/01norecommend
 rm -rf /usr/share/backgrounds/gnome
 
 ### Install packages
-apt install wget
+apt install wget -y
 
 ### 17g installer
 #wget https://github.com/pardus-turka/17g-installer/releases/download/current/17g-installer_1.0_all.deb
@@ -22,4 +22,4 @@ apt install wget
 #wget https://github.com/troyeguo/koodo-reader/releases/download/v1.5.3/Koodo.Reader-1.5.3-amd64.deb
 
 
-apt install ./*.deb -yq --allow-downgrades
+#apt install ./*.deb -yq --allow-downgrades
