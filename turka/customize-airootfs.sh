@@ -15,7 +15,7 @@ apt install wget
 #wget https://github.com/pardus-turka/17g-installer/releases/download/current/17g-installer_1.0_all.deb
 
 ## Mobilturka Wallpapers
-wget https://github.com/mobilturka/mt-wallpapers/releases/download/current/mt-wallpapers_1.0_all.deb
+#wget https://github.com/mobilturka/mt-wallpapers/releases/download/current/mt-wallpapers_1.0_all.deb
 
 # Extras
 #wget https://github.com/mobilturka/debian-firefox-tr/releases/download/latest/firefox-112.0_amd64.deb
