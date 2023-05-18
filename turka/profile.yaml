@@ -1,7 +1,7 @@
 name: pardus
 hostname: linux
 distro: debian
-codename: yirmiuc
+codename: yirmibir
 variant: minbase
 publisher: Pardus-Cinnamon <https://github.com/mt-iso/pardus-cinnamon>
 label: Pardus_Linux
