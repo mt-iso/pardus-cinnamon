@@ -8,7 +8,7 @@ label: Pardus_Linux
 application_id: Pardus-Cinnamon
 airootfs_directory_pre: airootfs
 keyring_package: pardus-archive-keyring
-repository: https://depo.pardus.org.tr/pardus
+repository: http://depo.pardus.org.tr/pardus
 linux_args: locales=tr_TR.UTF-8,en_US.UTF-8 keyboard-layouts=tr username=pardus hostname=turka user-fullname=pardus noswap quiet
 #iso_merge: iso_merge
 grub_cfg: grub.cfg
