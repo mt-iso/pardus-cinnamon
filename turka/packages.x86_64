@@ -3,7 +3,7 @@ grub-efi
 efibootmgr
 xinit
 xserver-xorg
-#linux-image-amd64
+linux-image-amd64
 lightdm
 gnome-terminal
 pavucontrol
