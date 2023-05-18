@@ -14,7 +14,7 @@ xdg-user-dirs
 gedit
 file-roller
 eog
-orchis-gtk-theme
+#orchis-gtk-theme
 p7zip-full
 network-manager-gnome
 network-manager
