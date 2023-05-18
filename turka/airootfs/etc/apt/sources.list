@@ -1,4 +1,4 @@
 ### The Official Pardus Package Repositories ###
-deb http://depo.pardus.org.tr/pardus yirmiuc main contrib non-free
-deb http://depo.pardus.org.tr/guvenlik yirmiuc main contrib non-free
-#deb http://depo.pardus.org.tr/backports yirmiuc-backports main contrib non-free
+deb http://depo.pardus.org.tr/pardus yirmiuc main contrib non-free non-free-firmware
+deb http://depo.pardus.org.tr/guvenlik yirmiuc main contrib non-free non-free-firmware
+#deb http://depo.pardus.org.tr/backports yirmiuc-backports main contrib non-free non-free-firmware
