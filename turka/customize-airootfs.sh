@@ -10,7 +10,7 @@ rm -rf /usr/share/backgrounds/gnome
 
 ### Install packages
 apt install wget -y
-apt install -t yirmibir-backports linux-image-amd64 -y
+#apt install -t yirmiuc-backports linux-image-amd64 -y
 
 
 #apt install ./*.deb -yq --allow-downgrades
