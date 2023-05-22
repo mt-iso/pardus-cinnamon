@@ -9,8 +9,9 @@ rm /etc/apt/apt.conf.d/01norecommend
 rm -rf /usr/share/backgrounds/gnome
 
 ### Install packages
-apt install wget -y
+apt install wget
+wget https://github.com/mobilturka/mt-wallpapers/releases/download/current/mt-wallpapers_1.0_all.deb
 #apt install -t yirmiuc-backports linux-image-amd64 -y
 
 
-#apt install ./*.deb -yq --allow-downgrades
+apt install ./*.deb -yq --allow-downgrades
