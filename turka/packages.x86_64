@@ -32,7 +32,7 @@ pardus-dolunay-grub-theme
 pardus-lightdm-greeter
 pardus-installer
 system-monitoring-center
-qmplay2
-appimagelauncher
+#qmplay2
+#appimagelauncher
 
 --install-recommends
