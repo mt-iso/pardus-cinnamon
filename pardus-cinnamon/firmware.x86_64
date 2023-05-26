@@ -1,35 +1,23 @@
-# atmel-firmware
-bluez-firmware
-# dahdi-firmware-nonfree
-firmware-amd-graphics
-# firmware-ath9k-htc
-# firmware-atheros
-# firmware-b43-installer
-# firmware-b43legacy-installer
-# firmware-bnx2
-# firmware-bnx2x
-# firmware-brcm80211
-# firmware-cavium
-# firmware-intel-sound
-# firmware-intelwimax
-# firmware-ipw2x00
-# firmware-ivtv
-# firmware-iwlwifi
-# firmware-libertas
+zd1211-firmware
 firmware-linux
-firmware-linux-free
 firmware-linux-nonfree
-firmware-misc-nonfree
-# firmware-myricom
-# firmware-netronome
-# firmware-netxen
-# firmware-qcom-media
-# firmware-qlogic
-# firmware-ralink
+firmware-netxen
+firmware-ralink
 firmware-realtek
-# firmware-samsung
-# firmware-siano
-# firmware-sof-signed
-# firmware-ti-connectivity
-# firmware-zd1211
-# hdmi2usb-fx2-firmware
+firmware-iwlwifi
+firmware-intelwimax
+firmware-atheros
+firmware-bnx2
+firmware-libertas
+bluez-firmware
+firmware-brcm80211
+firmware-amd-graphics
+firmware-cavium
+firmware-intel-sound
+firmware-misc-nonfree
+firmware-myricom
+firmware-qlogic
+firmware-samsung
+firmware-siano
+firmware-sof-signed
+firmware-ti-connectivity
