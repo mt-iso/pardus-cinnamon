@@ -8,4 +8,4 @@ cd teaiso
 make && make install
 ln -s sid /usr/share/debootstrap/scripts/yirmibir || true
 cd ../
-mkteaiso --profile=./turka --output=/output/ --debug 2>&1
+mkteaiso --profile=./pardus-cinnamon --output=/output/ --debug 2>&1
