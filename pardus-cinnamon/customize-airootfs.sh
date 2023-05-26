@@ -14,4 +14,4 @@ wget https://github.com/mobilturka/mt-wallpapers/releases/download/current/mt-wa
 #apt install -t yirmiuc-backports linux-image-amd64 -y
 
 
-#apt install ./*.deb -yq --allow-downgrades
+apt install ./*.deb -yq --allow-downgrades
