@@ -27,7 +27,6 @@ wget
 network-manager-gnome
 blueman
 synaptic
-mintstick
 cinnamon
 printer-driver-all
 system-config-printer
