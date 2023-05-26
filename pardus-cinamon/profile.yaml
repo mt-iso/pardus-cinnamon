@@ -1,0 +1,21 @@
+name: pardus
+hostname: linux
+distro: debian
+codename: yirmibir
+variant: minbase
+publisher: Pardus-Cinnamon <https://github.com/mt-iso/pardus-cinnamon>
+label: Pardus_Linux
+application_id: Pardus-Cinnamon
+airootfs_directory_pre: airootfs
+keyring_package: pardus-archive-keyring
+repository: http://depo.pardus.org.tr/pardus
+linux_args: locales=tr_TR.UTF-8,en_US.UTF-8 keyboard-layouts=tr username=pardus hostname=turka user-fullname=pardus noswap quiet
+#iso_merge: iso_merge
+grub_cfg: grub.cfg
+packages:
+ - packages.x86_64
+ - firmware.x86_64
+file_permissions:
+ - /etc/shadow|0:0:400
+customize_airootfs:
+ - customize-airootfs.sh
