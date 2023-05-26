@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [ maxin ]
+    branches: [ main ]
 
 jobs:
   build:
