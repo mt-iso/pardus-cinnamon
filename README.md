@@ -1,6 +1,8 @@
 # Pardus Cinnamon (Unofficial)
 Pardus Cinnamon kişisel bir proje olup, her hangi bir destek verilmez!
+
 ISO indirme linki:
+
 https://github.com/mt-iso/pardus-cinnamon/releases/tag/latest
 
 --------------------------------------------------------------------------------------
