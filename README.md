@@ -5,6 +5,6 @@ ISO indirme linki:
 
 https://github.com/mt-iso/pardus-cinnamon/releases/tag/latest
 
---------------------------------------------------------------------------------------
+-------------------------------------------------------------
 
 Resmi Pardus iso ları için https://indir.pardus.org.tr/ISO/ adresini ziyaret ediniz... 
