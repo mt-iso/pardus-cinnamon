@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#cd /tmp
+cd /tmp
 
 ### Drop no-recommend
 rm /etc/apt/apt.conf.d/01norecommend
