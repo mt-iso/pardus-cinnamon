@@ -1,5 +1,5 @@
-name: muslim
-hostname: muslim
+name: pardus
+hostname: pardus
 distro: debian
 codename: yirmibir
 variant: minbase
