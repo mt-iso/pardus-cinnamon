@@ -40,5 +40,6 @@ pardus-mycomputer
 pardus-installer
 system-monitoring-center
 qmplay2
+ffmpeg
 
 --install-recommends
