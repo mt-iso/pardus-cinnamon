@@ -1,4 +1,4 @@
-# Pardus Cinnamon (Unofficial)
+# Pardus Cinnamon (Unofficial) 
 Pardus Cinnamon kişisel bir proje olup, her hangi bir destek verilmez! 
 
 ISO indirme linki:
